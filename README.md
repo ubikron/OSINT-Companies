@@ -71,8 +71,8 @@ These tools are often legally and ethically sensitive; usage depends on jurisdic
 
 | Logo | Name | Country | Website | Founded | Founder(s) |
 |:-:|:-|:-|:-|:-:|:-|
-| <img src="images/PimEyes.jpg" height="40"> | PimEyes | Poland | https://pimeyes.com | 2017 | Giorgi Gobronidze |
-| <img src="images/lensoai.png" height="40"> | Lenso.ai | Poland | https://lenso.ai | 2023 | Not publicly disclosed |
+| <img src="images/pimeyes.jpg" height="40"> | PimEyes | Poland | https://pimeyes.com | 2017 | Giorgi Gobronidze |
+| <img src="images/Lensoai.png" height="40"> | Lenso.ai | Poland | https://lenso.ai | 2023 | Not publicly disclosed |
 
 
 ## Geo, transport & imagery OSINT

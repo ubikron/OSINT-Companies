@@ -113,6 +113,11 @@ If you want to add your company to the list, feel free to request it via Issues 
 [Ubikron Advanced Enrichments](https://github.com/ubikron/Advanced-Enrichments)  
 [Awesome AI OSINT](https://github.com/ubikron/Awesome-AI-OSINT)  
 [Awesome OSINT Chrome Extensions](https://github.com/ubikron/awesome-osint-chrome-extensions)  
+[OSINT People](https://github.com/ubikron/OSINT-People)  
+[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters)  
+[OSINT Books](https://github.com/ubikron/OSINT-Books)  
+[OSINT Conferences](https://github.com/ubikron/OSINT-Conferences)
+[OSINT CTFs](https://github.com/ubikron/OSINT-CTFs)  
 
 -----
 

@@ -33,6 +33,7 @@ Tools designed to support end-to-end investigations, link analysis, capture, or 
 | <img src="images/FaceCheckID.png" height="40"> | FaceCheck.ID | Belize | https://facecheck.id | 2022 | Lee Chong |
 | <img src="images/ScamSearch.jpeg" height="40"> | ScamSearch | Canada | https://scamsearch.io | 2011 | Ken Westbrook |
 | <img src="images/Noimosiny.jpeg" height="40"> | Noimosiny | Greece | https://noimosiny.com | 2005 | Not disclosed |
+| <img src="images/Expose.jpeg" height="40"> | Expose | Unknown | https://expose.team | Unknown | Not disclosed |
 
 
 ## Credentials, leaks & cybercrime intelligence
